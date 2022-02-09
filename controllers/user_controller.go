@@ -1,5 +1,9 @@
 package controllers
 
+var (
+	counter int
+)
+
 func GetUser() {
 
 }
